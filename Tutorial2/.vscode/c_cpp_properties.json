@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/pedro/ros/workspaces/tutorial/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/pedro/ros/workspaces/tutorial/src/Tutorial1/utilities/object_server/include/**",
+        "/home/pedro/ros/workspaces/tutorial/src/Tutorial1/rover/include/**",
+        "/home/pedro/ros/workspaces/tutorial/src/Tutorial1/rover_controller/include/**",
+        "/home/pedro/ros/workspaces/tutorial/src/Tutorial2/template/tiago_localization/include/**",
+        "/home/pedro/ros/workspaces/tutorial/src/Tutorial2/template/tiago_move/include/**",
+        "/opt/ros/noetic/share/tmc_julius/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
